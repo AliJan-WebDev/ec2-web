@@ -1,7 +1,7 @@
 const email = document.getElementById('email');
 const password = document.getElementById('password');
 
-const url = 'https://mkzo6u03c8.execute-api.us-east-1.amazonaws.com/prod/tests';
+const url = 'https://e37uprsik3.execute-api.us-east-1.amazonaws.com/prod/tests';
 
 document.querySelector('button').addEventListener('click', async (e) => {
     e.preventDefault();
